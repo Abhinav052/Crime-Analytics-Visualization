@@ -15,3 +15,18 @@
   margin-top: 20px;
   height: 30px;
 }
+
+nav {
+  margin-bottom: 5vh;
+}
+
+nav,
+footer {
+  height: 10vh;
+  width: 100%;
+  background-color: rgba(163, 160, 160, 0.371);
+}
+
+footer {
+  height: 20vh;
+}
